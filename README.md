@@ -1,0 +1,4 @@
+Landing Page Project description : it contains four-section landing page, with a dynamically updating navigational menu according to based  content that is added to the page.Also,when a user clicks on a navigation item, the item should scroll you to the appropriate section. another functionality is to add cerain style to the active section in view port when user scroll the web page.finally increasing performance using the Document fragment.
+I used java script to build this dynamically web page by adding data to the DOM and change the contents of the web page
+I used "visual studio code" as code editor for the java script code and HTML and CSS  
+useful resources : the contents of the web professional track course and MDN Web Docs
